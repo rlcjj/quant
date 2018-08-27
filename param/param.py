@@ -7,11 +7,7 @@ class Parameter(object):
 
     def __init__(self):
 
-<<<<<<< HEAD
-        path = r'C:\Users\doufucheng\Anaconda3\Lib\site-packages\quant\param\file'
-=======
         path = r'C:\Users\doufucheng\Anaconda3\Lib\site-packages\quant\param'
->>>>>>> 4935713768561d68179d9a7be4272d6b1f35ff89
         self.path = os.path.join(path, 'file')
         self.load_findb_name = 'load_findb_param.xlsx'
         self.read_name = 'read_param.xlsx'
