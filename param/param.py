@@ -5,9 +5,10 @@ import inspect
 
 class Parameter(object):
 
-    def __init__(self, path=r'C:\Users\doufucheng\Anaconda3\Lib\site-packages\quant\param\file'):
+    def __init__(self):
 
-        self.path = path
+        # path = r'C:\Users\doufucheng\Anaconda3\Lib\site-packages\quant\param\file'
+        self.path = os.path.join(os.getcwd(), 'file')
         self.load_findb_name = 'load_findb_param.xlsx'
         self.read_name = 'read_param.xlsx'
         self.load_name = 'load_param.xlsx'
