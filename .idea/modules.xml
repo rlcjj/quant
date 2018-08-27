@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/4_Code/pycharmprojects/14_泰达归因/.idea/14_泰达归因.iml" filepath="E:/4_Code/pycharmprojects/14_泰达归因/.idea/14_泰达归因.iml" />
+      <module fileurl="file://E:/4_Code/pycharmprojects/16_FOF基金库筛选/.idea/16_FOF基金库筛选.iml" filepath="E:/4_Code/pycharmprojects/16_FOF基金库筛选/.idea/16_FOF基金库筛选.iml" />
+      <module fileurl="file://E:/4_Code/pycharmprojects/18_业绩汇总/.idea/18_业绩汇总.iml" filepath="E:/4_Code/pycharmprojects/18_业绩汇总/.idea/18_业绩汇总.iml" />
+      <module fileurl="file://E:/4_Code/pycharmprojects/23_泰达近期基金表现/.idea/23_泰达近期基金表现.iml" filepath="E:/4_Code/pycharmprojects/23_泰达近期基金表现/.idea/23_泰达近期基金表现.iml" />
+      <module fileurl="file://E:/4_Code/pycharmprojects/2_风险模型BARRA/.idea/2_风险模型BARRA.iml" filepath="E:/4_Code/pycharmprojects/2_风险模型BARRA/.idea/2_风险模型BARRA.iml" />
+      <module fileurl="file://E:/4_Code/pycharmprojects/32_对比H5/.idea/32_对比H5.iml" filepath="E:/4_Code/pycharmprojects/32_对比H5/.idea/32_对比H5.iml" />
+      <module fileurl="file://E:/4_Code/pycharmprojects/6_新股数据/.idea/6_新股数据.iml" filepath="E:/4_Code/pycharmprojects/6_新股数据/.idea/6_新股数据.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/quant.iml" filepath="$PROJECT_DIR$/.idea/quant.iml" />
+    </modules>
+  </component>
+</project>
