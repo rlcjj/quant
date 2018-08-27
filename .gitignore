@@ -1,3 +1,4 @@
 
 *.xml
-param/file/read_param.xlsx
+param/file/*
+param/param.py
