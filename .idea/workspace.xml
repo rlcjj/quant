@@ -296,11 +296,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CalStockReturnDaily.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CalStockReturnDaily.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project/mfc_holding_project/attribute_mfcteda/CalStockReturnDaily.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2514">
-              <caret line="56" column="37" lean-forward="false" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+            <state relative-caret-position="146">
+              <caret line="198" column="24" lean-forward="false" selection-start-line="198" selection-start-column="24" selection-end-line="198" selection-end-column="24" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -350,7 +350,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data_update_daily.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="data_update_daily.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/my_timer/daily/data_update_daily.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -471,9 +471,9 @@
         <option value="$PROJECT_DIR$/project/mfc_holding_project/attribute_mfcteda/money_daily_stock_sample.py" />
         <option value="$PROJECT_DIR$/project/mfc_holding_project/attribute_mfcteda/AttributeMfctedaMain.py" />
         <option value="$PROJECT_DIR$/project/mfc_holding_project/attribute_mfcteda/CalNewStockReturnDaily.py" />
-        <option value="$PROJECT_DIR$/project/mfc_holding_project/attribute_mfcteda/CalStockReturnDaily.py" />
         <option value="$PROJECT_DIR$/project/my_timer/weekly/risk_report_weekly.py" />
         <option value="$PROJECT_DIR$/project/mfc_holding_project/attribute_mfcteda/AttributeMfctedaFund.py" />
+        <option value="$PROJECT_DIR$/project/mfc_holding_project/attribute_mfcteda/CalStockReturnDaily.py" />
       </list>
     </option>
   </component>
@@ -484,8 +484,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="752" />
-    <option name="y" value="84" />
+    <option name="x" value="270" />
+    <option name="y" value="25" />
     <option name="width" value="1370" />
     <option name="height" value="735" />
   </component>
@@ -947,10 +947,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="752" y="84" width="1370" height="735" extended-state="0" />
-    <editor active="false" />
+    <frame x="270" y="25" width="1370" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2259542" sideWeight="0.4869281" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2259542" sideWeight="0.4869281" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32401314" sideWeight="0.49092284" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36006546" sideWeight="0.4107413" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900763" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -1312,16 +1312,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/mfc_holding_project/attribute_mfcteda/CalStockReturnDaily.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2514">
-          <caret line="56" column="37" lean-forward="false" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project/mfc_holding_project/attribute_mfcteda/AttributeMfctedaFund.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-178">
@@ -1337,6 +1327,16 @@
         <state relative-caret-position="120">
           <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/mfc_holding_project/attribute_mfcteda/CalStockReturnDaily.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="198" column="24" lean-forward="false" selection-start-line="198" selection-start-column="24" selection-end-line="198" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

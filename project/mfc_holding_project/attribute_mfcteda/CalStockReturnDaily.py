@@ -196,7 +196,6 @@ def CalStockReturnDaily(fund_name, date, path,
 if __name__ == '__main__':
 
     fund_name = '泰达中证500指数分级'
-    beg_date = '20170109'
     end_date = datetime.today()
     path = 'C:\\Users\\doufucheng\\OneDrive\\Desktop\\data\\'
     close_unadjust = Stock().get_factor_h5("Price_Unadjust", None, "primary_mfc")
