@@ -1,4 +1,4 @@
 
 *.xml
-param/file/*
-param/*
+param/file/
+param/
